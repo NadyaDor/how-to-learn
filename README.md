@@ -1,6 +1,5 @@
 <p align="center">
   <b align="center" >Добро пожаловать! Это мой первый проект, созданный в рамках обучения на курсе веб-программист</b>
-  <b align="center" >Научиться учиться</b>
   <b align="center" >Я.Практикума</b>
 </p>
 
@@ -12,10 +11,10 @@
 `Стек:`
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/HTML-%23000000?logo=html5&logoColor=%23FFFFFF%20&color=%23E34F26" alt="HTML5" height="30px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://img.shields.io/badge/CSS-%23000000?logo=css3&logoColor=%23FFFFFF%20&color=%231572B6" alt="CSS3" height="30px"></a>
-<a href="https://ru.bem.info/" title="БЭМ"><img src="https://img.shields.io/badge/БЭМ%20nested-%23FFFFFF%20?logo=bem&logoColor=%23000000%20&color=%2361DAFB" alt="БЭМ" heigh="30px"></a>
+<a href="https://ru.bem.info/" title="БЭМ"><img src="https://img.shields.io/badge/БЭМ%20nested-%23FFFFFF%20?logo=bem&logoColor=%23000000%20&color=%2361DAFB" alt="БЭМ" height="30px"></a>
 
 <p align="center">
-  <h4 align="center" >Страница опубликавана на GitHub-pages - <a href="#" title="Ссылка на GitHub Pages">ссылка</a>.</h4>
+  <h4 align="center" >Страница опубликавана на GitHub-pages - <a href="https://nadyador.github.io/how-to-learn/" title="Ссылка на GitHub Pages">ссылка</a>.</h4>
   <p align="center" >Не забудьте нажать "Открыть в новой вкладке" :wink: </p>
 </p>
 <p align="center">
